@@ -48,7 +48,7 @@
 
 - kind: single_choice
   content: |
-    请看下列html代码和jQuery代码：
+    请看下列 html 代码和 jQuery 代码：
       ```html
       <body style = "font-size: 30px;">
         <div style = "display: none;">1002</div>
@@ -182,7 +182,7 @@
       - id: ccc
         text: 发送到服务器的参数名字是 json
       - id: ddd
-        text: 代码" function(data , desc){" 中的 data 表示服务器返回的数据
+        text: 代码" function(data, desc){" 中的 data 表示服务器返回的数据
     corrects:
       - aaa
       - ddd
